@@ -32,3 +32,9 @@ Cada módulo implementa um conjunto específico de regras e fatos para resolver 
 - Saída:
   ```bash
   Recomendações de livros: ['O Pequeno Príncipe'].
+
+# Como rodar o programa
+
+1. Instale o SWI-Prolog:
+
+    Baixe e instale o SWI-Prolog em https://www.swi-prolog.org/.
