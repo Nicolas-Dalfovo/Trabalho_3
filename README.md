@@ -1,7 +1,7 @@
 # Trabalho_3
 
 
-Como Rodar o Programa
+#Como Rodar o Programa
 
 Instale o SWI-Prolog:Baixe e instale o SWI-Prolog em https://www.swi-prolog.org/.
 
