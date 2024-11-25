@@ -38,3 +38,19 @@ Cada módulo implementa um conjunto específico de regras e fatos para resolver 
 1. Instale o SWI-Prolog:
 
     Baixe e instale o SWI-Prolog em https://www.swi-prolog.org/.
+
+2. Baixe o Arquivo:
+
+    Salve o código em arquivos separados para cada módulo, como diagnostico_medico.pl, recomendacao_livros.pl, etc.
+
+   3. Abra o SWI-Prolog:
+
+    No terminal, inicie o SWI-Prolog digitando:
+     ```bash
+     swipl
+
+4. Carregue o Arquivo:
+
+    Carregue o módulo desejado:
+     ```bash
+     ?- [nome_do_arquivo].
