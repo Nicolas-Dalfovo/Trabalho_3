@@ -9,7 +9,7 @@ Cada módulo implementa um conjunto específico de regras e fatos para resolver 
 
 # Exemplos de Entrada e Saída
 
-# Diagnóstico Médico
+## Diagnóstico Médico
 - Entrada:
   
   ```bash
@@ -22,4 +22,10 @@ Cada módulo implementa um conjunto específico de regras e fatos para resolver 
   ```bash
   Diagnóstico identificado: gripe.
 
-# Recomendação de Livros
+## Recomendação de Livros
+- Entrada:
+  ```bash
+  ?- inicio.
+  Qual gênero você prefere? (ficcao, historia, autoajuda): ficcao.
+  Qual o seu principal interesse? (politica, ciencia, filosofia, psicologia): filosofia.
+
