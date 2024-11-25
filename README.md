@@ -59,3 +59,11 @@ Cada módulo implementa um conjunto específico de regras e fatos para resolver 
     Execute o programa principal com:
       ```bash
       ?- inicio.
+6. Responda às Perguntas:
+
+    Siga as perguntas e forneça suas respostas para obter os resultados.
+
+
+# Contribuidores:
+Este trabalho foi desenvolvido por:
+  @Nicolas-Dalfovo
