@@ -10,3 +10,8 @@ Cada módulo implementa um conjunto específico de regras e fatos para resolver 
 # Exemplos de Entrada e Saída
 
 # Diagnóstico Médico
+- Etrada
+  '''bash
+  ?- inicio.
+Você apresenta febre? (sim/nao): sim.
+Você apresenta tosse? (sim/nao): sim.
