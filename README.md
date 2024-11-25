@@ -29,3 +29,6 @@ Cada módulo implementa um conjunto específico de regras e fatos para resolver 
   Qual gênero você prefere? (ficcao, historia, autoajuda): ficcao.
   Qual o seu principal interesse? (politica, ciencia, filosofia, psicologia): filosofia.
 
+- Saída:
+  ```bash
+  Recomendações de livros: ['O Pequeno Príncipe'].
