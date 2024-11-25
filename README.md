@@ -66,4 +66,6 @@ Cada módulo implementa um conjunto específico de regras e fatos para resolver 
 
 # Contribuidores:
 Este trabalho foi desenvolvido por:
-  @Nicolas-Dalfovo
+
+    [Nome do Membro 1]: @Nicolas-Dalfovo
+    [Nome do Membro 2]: @usuario_github_2
