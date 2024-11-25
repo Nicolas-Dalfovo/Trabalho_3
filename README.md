@@ -14,5 +14,6 @@ Cada módulo implementa um conjunto específico de regras e fatos para resolver 
   
   ```bash
   ?- inicio.
-Você apresenta febre? (sim/nao): sim.
-Você apresenta tosse? (sim/nao): sim.
+  Você apresenta febre? (sim/nao): sim
+  Você apresenta tosse? (sim/nao): sim.
+
