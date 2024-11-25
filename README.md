@@ -54,3 +54,8 @@ Cada módulo implementa um conjunto específico de regras e fatos para resolver 
     Carregue o módulo desejado:
      ```bash
      ?- [nome_do_arquivo].
+5. Execute o Programa:
+
+    Execute o programa principal com:
+      ```bash
+      ?- inicio.
